@@ -1,6 +1,6 @@
 # todo-app
 
-PavaScript todo-app which able to add, edit, delete, search items and save the data in the local storage
+JavaScript todo-app which able to add, edit, delete, search items and save the data in the local storage
 
 ### Mathod I used
 
